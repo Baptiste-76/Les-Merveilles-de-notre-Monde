@@ -169,7 +169,7 @@ h1 {
 
 .event1 .image {
     top: 50%;
-    background-image: url("ressources/lion.jpg");
+    background-image: url("ressources/lion-optimized.jpg");
 }
 
 .event1 h1 {
@@ -193,7 +193,7 @@ h1 {
 }
 
 .event2 .image {
-    background-image: url("ressources/fox.jpg");
+    background-image: url("ressources/fox-optimized.jpg");
 }
 
 .event2 h1 {
@@ -205,7 +205,7 @@ h1 {
 }
 
 .event3 .image {
-    background-image: url("ressources/racoon.jpg");
+    background-image: url("ressources/racoon-optimized.jpg");
 }
 
 .event3 h1 {
@@ -217,7 +217,7 @@ h1 {
 }
 
 .event4 .image {
-    background-image: url("ressources/deer.jpg");
+    background-image: url("ressources/deer-optimized.jpg");
 }
 
 .event4 h1 {
@@ -229,7 +229,7 @@ h1 {
 }
 
 .event5 .image {
-    background-image: url("ressources/wolf.jpg");
+    background-image: url("ressources/wolf-optimized.jpg");
 }
 
 .event5 h1 {
@@ -241,7 +241,7 @@ h1 {
 }
 
 .event6 .image {
-    background-image: url("ressources/tiger.jpg");
+    background-image: url("ressources/tiger-optimized.jpg");
 }
 
 .event6 h1 {
@@ -253,7 +253,7 @@ h1 {
 }
 
 .event7 .image {
-    background-image: url("ressources/bear.jpg");
+    background-image: url("ressources/bear-optimized.jpg");
 }
 
 .event7 h1 {
@@ -265,7 +265,7 @@ h1 {
 }
 
 .event8 .image {
-    background-image: url("ressources/leopard.jpg");
+    background-image: url("ressources/leopard-optimized.jpg");
 }
 
 .event8 h1 {
@@ -277,7 +277,7 @@ h1 {
 }
 
 .event9 .image {
-    background-image: url("ressources/elephant.jpg");
+    background-image: url("ressources/elephant-optimized.jpg");
 }
 
 .event9 h1 {
@@ -289,7 +289,7 @@ h1 {
 }
 
 .event10 .image {
-    background-image: url("ressources/panda.jpg");
+    background-image: url("ressources/panda-optimized.jpg");
 }
 
 .event10 h1 {
@@ -301,7 +301,7 @@ h1 {
 }
 
 .event11 .image {
-    background-image: url("ressources/jaguar.jpg");
+    background-image: url("ressources/jaguar-optimized.jpg");
 }
 
 .event11 h1 {
@@ -313,7 +313,7 @@ h1 {
 }
 
 .event12 .image {
-    background-image: url("ressources/gorilla.jpg");
+    background-image: url("ressources/gorilla-optimized.jpg");
 }
 
 .event12 h1 {
@@ -325,7 +325,7 @@ h1 {
 }
 
 .event13 .image {
-    background-image: url("ressources/red-panda.jpg");
+    background-image: url("ressources/red-panda-optimized.jpg");
 }
 
 .event13 h1 {
@@ -337,7 +337,7 @@ h1 {
 }
 
 .event14 .image {
-    background-image: url("ressources/horse.jpg");
+    background-image: url("ressources/horse-optimized.jpg");
 }
 
 .event14 h1 {
@@ -349,7 +349,7 @@ h1 {
 }
 
 .event15 .image {
-    background-image: url("ressources/koala.jpg");
+    background-image: url("ressources/koala-optimized.jpg");
 }
 
 .event15 h1 {
